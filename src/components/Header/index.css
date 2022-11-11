@@ -1,0 +1,26 @@
+.gym-logo{
+    height: 65px;
+    width: 85px;
+}
+.home{
+    font-family: var(--poppins);
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: 10px;
+    
+}
+.result{
+    font-family: var(--poppins);
+    font-weight: 600;
+    font-size: 15px;
+}
+.list-cont{
+    list-style-type: none;
+    display: flex;
+}
+.nav-cont{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+
+}

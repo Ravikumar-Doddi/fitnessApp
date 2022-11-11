@@ -1,0 +1,14 @@
+.image{
+    height: 50vh;
+    width: 40vw;
+}
+.container{
+    width: 70%;
+}
+.span-item{
+    font-size: 35px;
+}
+.para{
+    font-size: 20px;
+    font-family: "Roboto";
+}

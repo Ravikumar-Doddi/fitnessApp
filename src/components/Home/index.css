@@ -1,0 +1,29 @@
+.main-cont{
+    background-color: #323232;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.head{
+    color: aliceblue;
+    font-size: 45px;
+    font-family: var(--poppins);
+}
+.span{
+    color: #F0B625;
+}
+.body-builders{
+    height: 20vw;
+    width: 250px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.schedule{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #F0B625;
+    color: aliceblue;
+
+}

@@ -1,0 +1,56 @@
+
+.section{
+    padding: 5rem 0;
+  }
+  
+  .section-center{
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 35rem;
+    margin-top: 8rem;
+  }
+  
+  .section-center{
+    background: #fff;
+    border-radius: 0.25rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    padding: 2rem;
+    transition: all 0.3s linear;
+  
+  }
+  
+  .form {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .alert-danger{
+    color: #721c24;
+    background-color: #f8d7da;
+  }
+  
+  .alert-success{
+    color: #155724;
+    background-color: #d4edda;
+  }
+  
+
+  
+  .edit-btn{
+    background-color: #323232;
+  }
+  
+  .delete-btn{
+    color: red;
+  }
+  .list-item{
+    background-color:#F0B625 ;
+    font-family: 'Helvetica';
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .ul-cont{
+    list-style-type: none;
+    width: 100%;
+  }

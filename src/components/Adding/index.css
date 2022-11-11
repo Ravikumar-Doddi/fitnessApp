@@ -1,0 +1,71 @@
+
+.section{
+  padding: 5rem 0;
+}
+
+.section-center{
+  background: #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  padding: 2rem;
+  transition: all 0.3s linear;
+  display: flex;
+  flex-direction: column;
+  
+
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+.alert-danger{
+  color: #721c24;
+  background-color: #f8d7da;
+}
+
+.alert-success{
+  color: #155724;
+  background-color: #d4edda;
+}
+
+
+.edit-btn,
+.delete-btn {
+  background: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  font-size: 1.0rem;
+  margin: 0 0.10rem;
+  transition: all 0.3s linear;
+}
+
+.edit-btn{
+  color: lightgreen;
+}
+
+.delete-btn{
+  color: red;
+}
+.clear-btn{
+  background-color: #259bf0;
+  font-size: 20px;
+  border: 0px;
+  font-family: "Bold";
+  cursor: pointer;
+  align-self: center;
+}
+.date-cont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.date{
+  height: 22px;
+  font-style: oblique;
+  width: 100px;
+}
+.exercises-head{
+  margin-right: 10px;
+}
