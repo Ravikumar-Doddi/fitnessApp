@@ -1,0 +1,12 @@
+
+.name{
+    font-family: "Roboto";
+}
+.queries-cont{
+    background: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}

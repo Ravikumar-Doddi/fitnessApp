@@ -60,7 +60,7 @@ const getLocalStorage = ()=>{
 
     };
     const editItem = (id) => {
-        const editItem = list.find((item) => item.id == id);
+        const editItem = list.find((item) => item.id === id);
         setIdEditing(true);
         setEditID(id);
         setName(editItem.title);
